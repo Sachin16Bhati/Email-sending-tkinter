@@ -9,9 +9,9 @@ def send_message():
 
     print(reciever_email, email_body_txt)
 
-    sender_email = "xploradora0@gmail.com"
+    sender_email = "ENTER YOUR EMAIL ADDRESS HERE"
 
-    sender_password = "sachin16112000"
+    sender_password = "ENTER YOUR EMAIL PASSWORD HERE"
 
     server = smtplib.SMTP('smtp.gmail.com', 587)
 
